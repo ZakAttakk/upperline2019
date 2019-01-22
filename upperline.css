@@ -1,0 +1,26 @@
+#multiplesOutput {
+    height: 100px;
+    width: 300px;
+    background-color: lightblue;
+    font-size: 24pt;
+    padding: 10px;
+    text-align: center;
+}
+
+body {
+    font-size: 16pt;
+}
+
+
+.TTTbox{
+    height: 55px;
+    width: 80px;
+    background-color: lightcoral;
+    display: inline-block;
+    text-align: center;
+    padding-top: 25px;
+    margin: 5px;
+}
+
+
+
