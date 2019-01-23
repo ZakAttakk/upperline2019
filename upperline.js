@@ -210,13 +210,11 @@ XXXXXXX-#`
 
 
 function startGame(){
-  console.log("Below a map of the labyrinth.  You are the Princess Asterisk.  You must rescue Prince Hashtag!  The Xs mark your path.");
+  console.log("Below is a map of the labyrinth.  You are Princess Asterisk.  You must rescue Prince Hashtag!  The Xs mark your path.");
   console.log(map);
   console.log("Type 'map' at any time to see the map again. Type left(), right(), up(), or down() to move.");
 }
 //startGame();
-
-var lalala = "lalala";
 
 function down(){
   var mapArray = map.split('')
